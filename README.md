@@ -4,3 +4,4 @@
 |name|github name|student id|
 |----|-----|----|
 |Mottel Zirkind|mottelz|N/A|
+|Kanvi Savani|kanvisavani-discordbot|201017|
